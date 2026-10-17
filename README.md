@@ -20,7 +20,7 @@ Spécialisé dans les architectures **Cloud**, l'**Automatisation d'infrastructu
 ---
 
 ### 🌐 Retrouvez-moi :
-- 💼 **LinkedIn** : [LinkedIn](https://linkedin.com/in/nicolas-theuil)
+- 💼 **LinkedIn** : [LinkedIn]([https://linkedin.com/in/nicolas-theuil](https://www.linkedin.com/in/nicolastheuil/))
 - 🏢 **Entreprise** : [arcitek.fr](https://www.arcitek.fr)
 
 ---
