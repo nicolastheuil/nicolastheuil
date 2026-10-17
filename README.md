@@ -7,20 +7,20 @@ Spécialisé dans les architectures **Cloud**, l'**Automatisation d'infrastructu
 
 ### 💡 Ce qui m'anime au quotidien :
 - 🤖 **IA Agentique & Plateformes d'Agents** : Conception de harnesses robustes, moteurs d'exécution et orchestration d'agents d'entreprise fiables.
-- ☁️ **Cloud Hybride & Kubernetes** : Architecture SDDC, clusters K3s/K8s résilients, environnements hautement disponibles.
+- ☁️ **Cloud Hybride & Kubernetes** : Architecture SDDC, K8s, environnements hautement disponibles.
 - ⚡ **Automatisation & DevOps** : Déploiements reproductibles, IaC, CI/CD et sécurité opérationnelle.
 
 ---
 
 ### 🛠️ Stack & Technologies :
-- **Cloud & Systèmes** : Kubernetes (K3s), VMware SDDC, Docker, Linux Debian
+- **Cloud & Systèmes** : VMware, Vates, Kubernetes
 - **IA & Agents** : Moteurs d'agents autonomes, architectures multi-agents, MCP (Model Context Protocol), LLM APIs
 - **Automatisation & Scripting** : Python, Bash, PowerShell, Ansible, Terraform
 
 ---
 
 ### 🌐 Retrouvez-moi :
-- 💼 **LinkedIn** : [Nicolas Theuil sur LinkedIn](https://www.linkedin.com/search/results/all/?keywords=Nicolas%20Theuil%20Arcitek)
+- 💼 **LinkedIn** : [LinkedIn](https://linkedin.com/in/nicolas-theuil)
 - 🏢 **Entreprise** : [arcitek.fr](https://www.arcitek.fr)
 
 ---
